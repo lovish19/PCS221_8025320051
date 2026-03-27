@@ -1,0 +1,3 @@
+public IP: 20.255.114.155
+Static website using azure storage account
+https://lovishsingla.z7.web.core.windows.net/
