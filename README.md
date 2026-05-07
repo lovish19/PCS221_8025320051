@@ -1,3 +1,6 @@
+Lab Assignment 6 link 
+https://colab.research.google.com/drive/1F8J_TjO_dcvrTjKET5iJxhfrbBGoC5nm?usp=sharing
+
 Lab assignment 4 link
 
 http://20.255.114.155
